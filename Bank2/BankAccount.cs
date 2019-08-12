@@ -16,6 +16,7 @@ namespace BankAccountNS
         //comment
         public BankAccount(string customerName, double balance)
         {
+            //Bank account variables 
             m_customerName = customerName;
             m_balance = balance;
         }
